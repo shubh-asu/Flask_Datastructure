@@ -1,4 +1,4 @@
-# Flask-DS
+# Blog Post App
 
 Learned about data structures by using Flask and SQLite. Created and queried the database via Flask-SQLAlchemy i.e. ORM(Object Relational Mapper) and tested APIs using Postman.
 
